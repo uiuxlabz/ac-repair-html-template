@@ -9,6 +9,10 @@ A premium, framework-free HTML/CSS/vanilla-JS template for air conditioning, hea
 
 ---
 
+## 📸 Screenshot
+
+![Homepage Preview](screenshot.png)
+
 ## Pages
 
 | Page | Description | Link |
